@@ -5,9 +5,9 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.collectAsState
 import androidx.lifecycle.viewmodel.compose.viewModel
 
-@Composable
-fun MonitoringScreen(
-    viewModel: MonitoringViewModel = viewModel()
-) {
-    // 实现监测界面
-} 
+//@Composable
+//fun MonitoringScreen(
+//    viewModel: MonitoringViewModel = viewModel()
+//) {
+//    // 实现监测界面
+//}
